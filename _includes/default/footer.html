@@ -50,7 +50,7 @@
               | replace: site.data.conf.main.creative_commons.license_replace, license_type
               | replace: site.data.conf.main.creative_commons.lang_replace, lng
             -%}
-            <a href="{{ license_url }}" target="_blank" rel="noopener noreferrer" {{ tooltip_creative_commons }}>
+            <a href="test" target="_blank" rel="noopener noreferrer" {{ tooltip_creative_commons }}>
               {{ img_template | replace: '$lic_type', 'cc' }}
               {%- if site.data.conf.main.creative_commons.add_all_icons -%}
                 {{ img_list }}
@@ -60,7 +60,7 @@
           {%- endif -%}
         </div>
       {% endif -%}
-      <p class="footer-powered"><span>Pwrd by </span><a href="https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme" target="_blank" rel="noopener noreferrer">Mr. Green</a></p>
+      <p class="footer-powered"><span>2024</span><a href="https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme" target="_blank" rel="noopener noreferrer">Mr. Green</a></p>
     </footer>
   </div>
 </div>
