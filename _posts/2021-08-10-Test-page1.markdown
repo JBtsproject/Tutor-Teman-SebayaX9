@@ -13,7 +13,7 @@ tags: [Pengumuman]
 # thumbnail image for post
 img: ":post_pic1.jpg"
 # disable comments on this page
-comments_disable: true
+comments_disable: false
 
 # publish date
 date: 2024-01-07 11:32:53 +0900
