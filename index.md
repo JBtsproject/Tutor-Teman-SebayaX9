@@ -36,9 +36,10 @@ img: ":home-heading.jpg"
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
 ---
-# Website Tutor Teman Sebaya X9
+# Website Tutor Teman Sebaya X9 #
 
-## Materi Pelajaran
+## Materi Pelajaran ##
 Pembahasan materi pembelajaran akan segera diadakan dalam page "Materi". 
-## Info-Info
+
+## Info-Info ##
 Info-info penting dan lainnya akan diadakan dalam page "Pemberitahuan".
