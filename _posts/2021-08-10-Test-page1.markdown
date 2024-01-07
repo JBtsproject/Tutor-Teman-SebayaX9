@@ -38,4 +38,4 @@ date: 2024-01-07 11:32:53 +0900
 #published: false
 ---
 
-test
+Website ini didirikan dengan tujuan utama untuk menjadi tempat yang mengumpulkan segala informasi, resource, dan materi yang diajarkan di dalam kelas. Harapannya adalah agar proses penyebaran informasi dapat berlangsung dengan lebih terstruktur dan belajar lebih mudah. Semua resource pembelajaran akan disetor pada page "Materi", sedangkan informasi-informasi akan disetor pada page "Pemberitahuan". Web akan mulai diupdate tanggal 08/01/2024.
