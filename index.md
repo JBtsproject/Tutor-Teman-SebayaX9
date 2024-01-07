@@ -37,7 +37,6 @@ img: ":home-heading.jpg"
 #published: false
 ---
 ## Materi Pelajaran ##
-Pembahasan materi pembelajaran akan segera diadakan dalam page "Materi". 
-
+Semua resource dan pembahasan materi pembelajaran akan dikumpulkan dalam website ini, akan segera diadakan dalam page "Materi".
 ## Info-Info ##
 Info-info penting dan lainnya akan diadakan dalam page "Pemberitahuan".
