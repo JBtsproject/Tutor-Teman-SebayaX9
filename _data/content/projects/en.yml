@@ -12,23 +12,23 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "MPrior"
+      type: id_mprior
       color: "gray"
-    - title: "Picture"
-      type: id_picture
+    - title: "Tugas-Tugas"
+      type: id_tugas-tugas
       color: "#62b462"
-    - title: "Quote"
-      type: id_quote
+    - title: "Info Lainnya"
+      type: id_infolainnya
       color: "#2FD0ED"
 
   list:
     # example
-    - type: id_example
+    - type: id_infolainnya
       project_name: "Pemberitahuan 01"
       project_excerpt: "P01"
       img_title: "img title1"
-      date: "2021-03-13"
+      date: "2024-01-07"
       post: |
         # Pemberitahuan 01
 
