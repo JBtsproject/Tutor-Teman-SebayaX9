@@ -27,6 +27,7 @@ page_data:
     - type: id_infolainnya
       project_name: "Pemberitahuan 01"
       project_excerpt: "P01"
+      img: ":project1_thumb.jpg"
       img_title: "img title1"
       date: "2024-01-07"
       post: |
