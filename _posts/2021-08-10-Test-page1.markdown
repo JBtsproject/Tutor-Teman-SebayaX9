@@ -7,9 +7,9 @@ title: Pengumuman
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: Pinned
 # multiple tag entries are possible
-tags: [example post]
+tags: [Pengumuman]
 # thumbnail image for post
 img: ":post_pic1.jpg"
 # disable comments on this page
