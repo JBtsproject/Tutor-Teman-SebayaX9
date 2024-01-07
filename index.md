@@ -38,4 +38,4 @@ img: ":home-heading.jpg"
 ---
 # Website Tutor Teman Sebaya X9
 
-Test
+Untuk materi pembelajaran akan diadakan pada page 'Materi', info-info akan diadakan pada page 'Pemberitahuan'.
