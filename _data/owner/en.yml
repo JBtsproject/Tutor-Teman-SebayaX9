@@ -4,8 +4,6 @@
 # This is your brand name
 brand: "TSX9"
 
-# text below the brand name
-brand_sub_text: "Tutor X9"
 
 # used for seo meta post author (if it's not defined in post)
 name: "-"
