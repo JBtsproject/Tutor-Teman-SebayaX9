@@ -12,8 +12,8 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "MPrior"
-      type: id_mprior
+    - title: "Penting"
+      type: id_penting
       color: "gray"
     - title: "Tugas-Tugas"
       type: id_tugas-tugas
