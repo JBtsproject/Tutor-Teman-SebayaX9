@@ -22,32 +22,6 @@ page_data:
       type: id_infolainnya
       color: "#2FD0ED"
 
-  list:
-    # example
-    - type: id_infolainnya
-      project_name: "Pemberitahuan 01"
-      project_excerpt: "P01"
-      img: ":project1_thumb.jpg"
-      img_title: "img title1"
-      date: "2024-01-07"
-      post: |
-        # Pemberitahuan 01
-
-        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
-
-        > **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+ 
 
        
