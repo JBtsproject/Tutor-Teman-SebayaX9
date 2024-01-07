@@ -12,7 +12,7 @@ category: Pinned
 tags: [Pengumuman]
 # thumbnail image for post
 img: ":post_pic1.jpg"
-# disable comments on this page
+ disable comments on this page
 comments_disable: false
 
 # publish date
