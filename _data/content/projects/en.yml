@@ -32,18 +32,19 @@ page_data:
       date: "2024-01-08"
       post: |
         # Tugas-Tugas
-
-        >  Last Update : 08/01/2024
+        Last Update : 08/01/2024
         
+        >  Bahasa Inggris   - Pertanyaan Narrative Text 
+           Kimia            - Mencari jembatan tabel periodik
+           Bahasa Indonesia - Tugas Kelompok
+           Fisika           - Tugas Kelompok
+        
+           
+           
+           
+           
 
-# Tugas-Tugas
-
-| Mapel               | Deadline             |
-| ------------------- | :------------------: |
-| test                |       centered       |
-| test 2              |  centered long text  |
-| test 3              |       centered       |
-| test 4              |       centered       |
-{:data-align="center"}
+        
+        
 
        
