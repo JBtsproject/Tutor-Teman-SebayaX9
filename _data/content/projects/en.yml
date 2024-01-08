@@ -27,7 +27,7 @@ page_data:
     - type: id_tugas-tugas
       project_name: "Tugas-Tugas"
       project_excerpt: "P01"
-      img: ":tugastgs"
+      img: ":tugastgs.jpg"
       img_title: "img title1"
       date: "2024-01-08"
       post: |
