@@ -22,7 +22,7 @@ page_data:
       type: id_infolainnya
       color: "#2FD0ED"
 
- list:
+  list:
     # example
     - type: id_tugas-tugas
       project_name: "Tugas-Tugas"
