@@ -34,13 +34,16 @@ page_data:
         # Tugas-Tugas
         List tugas-tugas diadakan disini
         
-        > - Last Update : 08/01/2024
-          - Bahasa Inggris   : Pertanyaan Narrative Text 
-          - Agama            : Tugas kelompok tokoh idola
-          - Kimia            : Mencari jembatan tabel periodik
-          - Bahasa Indonesia : Tugas Kelompok
-          - Fisika           : Tugas Kelompok
-          - PPKN             : Poster
+        | List | Description | Deadline |
+        | --- | --- | --- |
+        | `Bahasa Inggris` | Pertanyaan Narrative Text | Setelah LKTD |
+        | `Agama` | Tugas Kelompok Mencari Tokoh Idola | Setelah LKTD |
+        | `Kimia ` | Mencari Jembatan Tabel Periodik | Setelah LKTD |
+        | `Fisika` | Tugas Kelompok Sesuai Dengan Topik | Kamis |
+        | `PPKN` | Membuat Poster Sesuai Topik | Setelah LKTD |
+
+        >  Last Update : 08/01/2024
+        
            
            
            
