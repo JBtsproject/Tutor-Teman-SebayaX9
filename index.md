@@ -36,7 +36,45 @@ img: ":home-heading.jpg"
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false
 ---
-## Materi Pelajaran ##
-Semua resource dan pembahasan materi pembelajaran akan dikumpulkan dalam website ini, akan segera diadakan dalam page "Materi".
-## Info-Info ##
-Info-info penting dan lainnya akan diadakan dalam page "Pemberitahuan".
+# Karya Ilmiah XI-6 2024
+
+Pengaruh cara berpenampilan terhadap tingkat konsentrasi belajar Siswa De Britto.
+
+=======================================================
+
+
+**Project Details**
+> Karya Ilmiah ini bertujuan untuk meneliti apakah cara berpenampilan seorang pelajar dalam sekolah (cara berpakaian, gaya rambut, dan lainnya) dapat berdampak seperti apa pada konsentrasi dan kemampuan akademik suatu pelajar.
+
+**Kesepakatan KI**
+1. Berinisiatif membuat janji untuk pertemuan KI, KI dicek per bab.
+2. Selalu membawa laptop masing-masing peserta, progres kelompok, pertanyaan yang akan diajukan, serta target pertemuan.
+3. Boleh mengajukan mundur dari timeline paling lama 1 minggu dan hanya ada 1x toleransi keterlambatan.
+4. Timeline detail akan selalu didiskusikan bersama baik oleh Peneliti dan pembimbing.
+5. Plagiarisme tidak ditoleransikan.
+6. Tata Krama dasar, WA sebelum jam 21.00 mind your language, jika konsultasi di sekolah silakan pakai pakaian yg pantas.
+7. Boleh bawa snack dan minum saat kita bekerja bersama.
+8. Biasakan menggunakan sumber terpercaya dalam memproses apapun dalam KI ini, misal dari jurnal, buku, dsb.
+
+**Instruksi Lembar Kerja**
+> lampirkan data pengerjaan lembar kerja sebagai salah satu landasan pembimbing memberi feedback dan menentukan nilai proses kerja.
+> penulisan akademik menggunakan bentuk pasif atau dapat juga menggunakan kata ‘peneliti’. Hindari menggunakan kata ‘kami’.
+
+
+| Tanggal | Progress/Feedback | Yang ingin dikonsultasikan |
+|----------|----------|----------|
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+
+**Timeline**
+Berikut adalah timeline untuk proses pengerjaan KI.
+
+| Bab | Target Penyelesaian | Subab Target Penyelesaian |
+|----------|----------|----------|
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+| ... | ... | ... |
+
