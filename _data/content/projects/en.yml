@@ -24,16 +24,16 @@ page_data:
 
   list:
     # example
-    - type: id_tugas-tugas
-      project_name: "Tugas-Tugas"
-      project_excerpt: "P01"
-      img: ":tugastgs.jpg"
+    - type: id_doc
+      project_name: "First Documentation"
+      project_excerpt: "First Documentation - Website"
+      img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR28WZiSOM1rA39uUkXgAvru59ZxnvorUDwwg&s
       img_title: "img title1"
-      date: "2024-01-08"
+      date: "09/08/2024"
       post: |
         # Tugas-Tugas
-        list
-        >  Last Update : 09/01/2024
+        img: https://drive.google.com/file/d/1p7AceIsFYsrCaT5PucD0B-N4UO7BMFjO/preview
+        >  Last Update : 09/08/2024
            
         
            
