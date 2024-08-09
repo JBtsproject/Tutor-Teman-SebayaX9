@@ -12,14 +12,14 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Penting"
-      type: id_penting
-      color: "gray"
-    - title: "Tugas-Tugas"
-      type: id_tugas-tugas
+    - title: "Documentations"
+      type: id_doc
+      color: "red"
+    - title: "Needs to be clarified"
+      type: id_ntbc
       color: "#62b462"
-    - title: "Info Lainnya"
-      type: id_infolainnya
+    - title: "Achievement (Other Info)"
+      type: id_achv
       color: "#2FD0ED"
 
   list:
