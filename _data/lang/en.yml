@@ -61,6 +61,8 @@ creative_commons:
 not-found:
   title: "404"
 
+comments: true
+
 # for post layout
 post:
   read_time:
