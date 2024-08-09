@@ -57,8 +57,6 @@ Pengaruh cara berpenampilan terhadap tingkat konsentrasi belajar Siswa De Britto
 8. Biasakan menggunakan sumber terpercaya dalam memproses apapun dalam KI ini, misal dari jurnal, buku, dsb.
 
 **Instruksi Lembar Kerja**
-> lampirkan data pengerjaan lembar kerja sebagai salah satu landasan pembimbing memberi feedback dan menentukan nilai proses kerja.
-> penulisan akademik menggunakan bentuk pasif atau dapat juga menggunakan kata ‘peneliti’. Hindari menggunakan kata ‘kami’.
 
 
 |       Tanggal       |   Progress/Feedback  | Yang perlu dikonsultasikan |
@@ -68,3 +66,7 @@ Pengaruh cara berpenampilan terhadap tingkat konsentrasi belajar Siswa De Britto
 |                     |                      |                            |
 |                     |                      |                            |
 {:data-align="center"}
+
+> lampirkan data pengerjaan lembar kerja sebagai salah satu landasan pembimbing memberi feedback dan menentukan nilai proses kerja.
+> penulisan akademik menggunakan bentuk pasif atau dapat juga menggunakan kata ‘peneliti’. Hindari menggunakan kata ‘kami’.
+
