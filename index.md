@@ -46,6 +46,11 @@ Pengaruh cara berpenampilan terhadap tingkat konsentrasi belajar Siswa De Britto
 **Project Details**
 > Karya Ilmiah ini bertujuan untuk meneliti apakah cara berpenampilan seorang pelajar dalam sekolah (cara berpakaian, gaya rambut, dan lainnya) dapat berdampak seperti apa pada konsentrasi dan kemampuan akademik suatu pelajar.
 
+**Our Team**
+> Bradleeandro Alexis Sanjaya		absen. 07
+> Johanes Cpistrano Dhira    		absen. 16
+> Petrus Krishna Setiawan    		absen. 26
+
 **Kesepakatan KI**
 1. Berinisiatif membuat janji untuk pertemuan KI, KI dicek per bab.
 2. Selalu membawa laptop masing-masing peserta, progres kelompok, pertanyaan yang akan diajukan, serta target pertemuan.
@@ -57,15 +62,6 @@ Pengaruh cara berpenampilan terhadap tingkat konsentrasi belajar Siswa De Britto
 8. Biasakan menggunakan sumber terpercaya dalam memproses apapun dalam KI ini, misal dari jurnal, buku, dsb.
 
 **Instruksi Lembar Kerja**
-
-
-|       Tanggal       |   Progress/Feedback  | Yang perlu dikonsultasikan |
-| ------------------- | :------------------: | -------------------------: |
-|                     |                      |                            |
-|                     |                      |                            |
-|                     |                      |                            |
-|                     |                      |                            |
-{:data-align="center"}
 
 > lampirkan data pengerjaan lembar kerja sebagai salah satu landasan pembimbing memberi feedback dan menentukan nilai proses kerja.
 > penulisan akademik menggunakan bentuk pasif atau dapat juga menggunakan kata ‘peneliti’. Hindari menggunakan kata ‘kami’.
