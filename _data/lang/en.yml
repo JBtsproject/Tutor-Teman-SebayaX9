@@ -110,8 +110,8 @@ post:
 
 # for post-list layout
 post-list:
-  title: Materi
-  button_name: Materi
+  title: Progress & Info
+  button_name: Progress & Info
   upside_down_tabs:
     tab:
       all: All
@@ -160,8 +160,8 @@ links:
 
 # for projects layout
 projects:
-  title: Pemberitahuan
-  button_name: Pemberitahuan
+  title: Documentations & Other Info
+  button_name: Documentations & Other Info
   read_more_text: Read more
   read_less_text: Read less
 
