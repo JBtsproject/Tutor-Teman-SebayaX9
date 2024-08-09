@@ -48,7 +48,9 @@ Pengaruh cara berpenampilan terhadap tingkat konsentrasi belajar Siswa De Britto
 
 **Our Team**
 > Bradleeandro Alexis Sanjaya		absen. 07
+
 > Johanes Cpistrano Dhira    		absen. 16
+
 > Petrus Krishna Setiawan    		absen. 26
 
 **Kesepakatan KI**
