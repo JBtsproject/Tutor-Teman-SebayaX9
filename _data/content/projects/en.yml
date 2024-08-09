@@ -8,7 +8,7 @@ page_data:
     info: "Documentations, Problems, and Achievements"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: https://g.foolcdn.com/editorial/images/660885/generic-upward-stock-move-getty.jpg
+    img: https://www.learnupon.com/wp-content/uploads/Information-Processing-Theory-720x300.png
     back_color: "lightblue"
 
   category:
@@ -32,18 +32,7 @@ page_data:
       date: "2024-01-08"
       post: |
         # Tugas-Tugas
-        List tugas-tugas diadakan disini
-        
-        | List | Description | Deadline |
-        | --- | --- | --- |
-        | `Bahasa Inggris` | Answer the questions based on the video | Setelah LKTD |
-        | `Agama` | Tugas kelompok mencari tokoh idola | Setelah LKTD |
-        | `Kimia ` | Mencari jembatan tabel periodik | Setelah LKTD |
-        | `Fisika` | Tugas kelompok sesuai dengan topik | Kamis |
-        | `PPKN` | Membuat poster sesuai topik | Setelah LKTD |
-        | `Sejarah` | Membuat presentasi dan mengerjakan LK | UNKNOWN |
-        | `Sosiologi` | Mencari jawaban dari pertanyaan saat LKTD | Setelah LKTD |
-      
+        list
         >  Last Update : 09/01/2024
            
         
