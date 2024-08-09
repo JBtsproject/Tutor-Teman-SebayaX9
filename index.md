@@ -40,7 +40,7 @@ img: ":home-heading.jpg"
 
 Pengaruh cara berpenampilan terhadap tingkat konsentrasi belajar Siswa De Britto.
 
-=======================================================
+===================================
 
 
 **Project Details**
