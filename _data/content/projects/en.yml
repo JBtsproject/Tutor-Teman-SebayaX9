@@ -4,11 +4,11 @@
 ###########################################################
 page_data:
   main:
-    header: "Pemberitahuan"
-    info: "50656E67756D756D616E"
+    header: "Documentations & Other Info"
+    info: "Documentations, Problems, and Achievements"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    img: https://g.foolcdn.com/editorial/images/660885/generic-upward-stock-move-getty.jpg
     back_color: "lightblue"
 
   category:
