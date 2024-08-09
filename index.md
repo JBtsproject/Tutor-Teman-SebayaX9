@@ -61,23 +61,26 @@ Pengaruh cara berpenampilan terhadap tingkat konsentrasi belajar Siswa De Britto
 > penulisan akademik menggunakan bentuk pasif atau dapat juga menggunakan kata ‘peneliti’. Hindari menggunakan kata ‘kami’.
 
 
-| Tanggal | Progress/Feedback | Yang ingin dikonsultasikan |
-|----------|----------|----------|
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
+|       Tanggal       |   Progress/Feedback  | Yang perlu dikonsultasikan |
+| ------------------- | :------------------: | -------------------------: |
+|                     |                      |                            |
+|                     |                      |                            |
+|                     |                      |                            |
+|                     |                      |                            |
+{:data-align="center"}
 
 **Timeline**
 Berikut adalah timeline untuk proses pengerjaan KI.
 
-| Tanggal | Target Penyelesaian | Subab Target Penyelesaian | Bab yang dikerjakan |
-|----------|----------|----------|
-| 08-21 Aug | Bab 1 selesai, Riset awal, dan mencari source | ... | ... |
-| 22-4 Sep | Riset Form, Bab 2 mulai dibuat | ... | ... |
-| 05-18 Sep | Menyelesaikan bab 2 | ... | ... |
-| 19-02 Okt | ... | ... | ... |
-| 03-16 Okt | ... | ... | ... |
-| 17-30 Okt | ... | ... | ... |
-| 31-13 Nov | ... | ... | ... |
-| 14-27 Nov | ... | ... | ... |
+|       Tanggal       |   Target Penyelesaian                         |     Bab yang dikerjakan    |
+| ------------------: | --------------------------------------------: | -------------------------: |
+|      08-21 Aug      | Bab 1 selesai, Riset awal, dan mencari source |          **Bab 1**         |
+|      22-4 Sep       | Riset Form, Bab 2 mulai dibuat                |          **Bab 2**         |
+|      05-18 Sep      | Menyelesaikan bab 2                           |          **Bab 2**         |
+|      19-02 Okt      |                                               |                            |
+|      03-16 Okt      |                                               |                            |
+|      17-30 Okt      |                                               |                            |
+|      31-13 Nov      |                                               |                            |
+|      14-27 Nov      |                                               |                            |
 
+> Last Updated : 09/08/2024
