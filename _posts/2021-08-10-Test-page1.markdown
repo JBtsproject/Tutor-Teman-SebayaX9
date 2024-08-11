@@ -7,13 +7,13 @@ title: Timeline Pengerjaan
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: "18044@student.debritto.sch.id"
 # multiple category is not supported
-category: main Info
+category: main info
 # multiple tag entries are possible
 tags: pinned
 # thumbnail image for post
 img: https://miro.medium.com/v2/resize:fit:1400/1*7RGt3T7AkCEKdJL1ZPoXYA.png
 # disable comments on this page
-comments_disable: true
+comments_disable: false
 
 # publish date
 date: 09/08/2024
