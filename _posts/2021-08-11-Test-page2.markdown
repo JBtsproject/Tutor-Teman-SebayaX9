@@ -7,7 +7,7 @@ title: Resource Jurnal
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: 18044@student.debritto.sch.id
 # multiple category is not supported
-category: Main Info
+category: main info
 # multiple tag entries are possible
 tags: jurnal
 # thumbnail image for post
