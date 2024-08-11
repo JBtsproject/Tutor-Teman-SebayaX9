@@ -7,9 +7,9 @@ title: Resource Jurnal
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: 18044@student.debritto.sch.id
 # multiple category is not supported
-category: Jurnal
+category: Main Info
 # multiple tag entries are possible
-tags: [jurnal]
+tags: jurnal
 # thumbnail image for post
 img: https://duniadosen.com/wp-content/uploads/2020/11/Kriteria-Umum-dari-Jurnal-Nasional-Terakreditasi.jpg
 # disable comments on this page
