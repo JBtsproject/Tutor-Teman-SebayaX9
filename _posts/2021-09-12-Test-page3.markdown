@@ -42,5 +42,8 @@ date: 12/08/2024
 **Update Progress 12/08/2024**
 
 Pada hari ini kelompok kami telah memulai mengerjakan bab 1.
+  ![Doc1](:j1.png)
+  ![Doc2](:j2.png)
+
 > Overall penyelesaian bab 1 sudah hampir selesai namun hanya perlu ditambahkan lebih banyak informasi dan diperbaiki kata-katanya.
 
