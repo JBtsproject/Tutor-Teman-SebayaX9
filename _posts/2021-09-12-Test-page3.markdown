@@ -47,3 +47,7 @@ Pada hari ini kelompok kami telah memulai mengerjakan bab 1.
 
 > Overall penyelesaian bab 1 sudah hampir selesai namun hanya perlu ditambahkan lebih banyak informasi dan diperbaiki kata-katanya.
 
+|       Tanggal       |   Progress/Feedback                           |     Yang ingin dikonsultasikan    |
+| ------------------: | --------------------------------------------: | --------------------------------: |
+|      08-21 Aug      | Progress pada Bab 1 sudah hampir selesai, hanya perlu perbaikan dan menambah informasi | Perlu konfirmasi apakah sudah benar |
+
