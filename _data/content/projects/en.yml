@@ -37,6 +37,32 @@ page_data:
 
         > Mengganti website lama tutor teman sebaya bekas X-9 menjadi website untuk KI.
         > 08/08/2024
+
+  
+    - type: id_doc
+      project_name: "KI Workshop Documentation"
+      project_excerpt: "KI Workshop documentation on 08/13/2024"
+      img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuzIzkZMldjQedNpUOlBAyxiQRhHE1OaelmQ&s
+      img_title: "img title1"
+      date: "13/08/2024"
+      post: |
+        # KI Workshop documentation on 08/13/2024
+        > Latar belakang minimal 5 paragraf
+        > Rumusan masalah : pernyataan masalah yang akan diteliti
+        
+        ![Doc1](:wki1.png)
+        ![Doc2](:wki2.png)
+        ![Doc3](:wki3.png)
+        ![Doc4](:wki4.png)
+        ![Doc5](:wki5.png)
+        ![Doc6](:wki6.png)
+        ![Doc7](:wki7.png)
+        ![Doc8](:wki8.png)
+        ![Doc9](:wki9.png)
+        ![Doc10](:wki10.png)
+        ![Doc11](:wki11.png)
+
+        
         
            
         
