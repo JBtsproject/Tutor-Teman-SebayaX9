@@ -48,6 +48,7 @@ page_data:
       post: |
         # KI Workshop documentation on 08/13/2024
         > Latar belakang minimal 5 paragraf
+        
         > Rumusan masalah : pernyataan masalah yang akan diteliti
         
         ![Doc1](:wki1.png)
