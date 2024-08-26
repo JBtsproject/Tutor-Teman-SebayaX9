@@ -9,7 +9,7 @@ title: Progress 12/08/2024
 # multiple category is not supported
 category: progress
 # multiple tag entries are possible
-tags: progress1
+tags: [progress1]
 # thumbnail image for post
 img: https://cdn-icons-png.flaticon.com/512/4992/4992624.png
 # disable comments on this page
