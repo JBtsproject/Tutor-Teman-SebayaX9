@@ -39,6 +39,7 @@ date: 09/08/2024
 ---
 
 **Timeline**
+
 Berikut adalah timeline untuk proses pengerjaan KI.
 
 |       Tanggal       |   Target Penyelesaian                         |     Bab yang dikerjakan    |
@@ -53,4 +54,16 @@ Berikut adalah timeline untuk proses pengerjaan KI.
 |      14-27 Nov      |                                               |                            |
 
 > Last Updated : 09/08/2024
+
+**Progress**
+
+Berikut adalah Progress pengerjaan karya ilmiah.
+
+|       Tanggal       |   Target Penyelesaian                         |     Bab yang dikerjakan    |
+| ------------------: | --------------------------------------------: | -------------------------: |
+|      21 Aug      | Workshop KI-Mendapatkan revisi, dan mencatat apa yang perlu direvisi |          **Bab 1**         |
+|      23 Aug       | Meeting brainstorming revisi                |          **Bab 1**         |
+|      26 Aug      | Bab 1 selesai                          |          **Bab 1**         |
+
+> Last Updated : 26/08/2024
 
